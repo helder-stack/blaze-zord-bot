@@ -1,0 +1,27 @@
+1 - Baixe e instale esta ferramenta: https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
+
+2 - Abra a ferramenta e digite: cd Desktop (CASO NÃO FUNCIONE, DIGITE: git desktop ou git 'Área de Trabalho')
+
+3 - depois, digite: git clone 
+
+4 - digite: cd blaze-zord-bot
+
+5 - Instale o pacote https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi (pode me perguntar, qualquer dúvida)
+
+6 - depois de instalado, crie um arquivo dentro da pasta blaze-zord-bot chamado .env 
+
+7 - dentro do .env, digite: whatsapp_chat_id = 'pedir identificação pra mim'
+
+8 - depois disso, execute o arquivo: Start node.exe 
+
+9 - leia o QR Code que vai pedir 
+
+10 - depois de logado, abra o arquivo script.js 
+
+11 - vá no telegram, digite a conversa que deseja copiar as mensagens
+
+12 - aperte com o botão direito no mouse e vá em inspecionar elemento 
+
+13 - vá na parte de console
+
+14 - cole o código lá e dá enter
